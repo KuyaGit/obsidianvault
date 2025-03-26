@@ -1,5 +1,3 @@
-#Criteria
-
 - Identify Your supply/demand levels on the 4h and 1h 
 - Higher Time Frame zones carry more weight and price is more likely respect them
 - Must Create Imbalance
